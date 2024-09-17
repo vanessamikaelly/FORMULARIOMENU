@@ -1,0 +1,44 @@
+.logoPolitec{
+
+    width: 50px;
+    height: 25px;
+}
+
+header{
+
+    background-color: rgb(206, 206, 206);
+    position: sticky;
+    top: 0px;
+    width: 100%;
+}
+
+
+.topo{
+
+    display: flex; 
+    margin: auto;
+    align-items: center;
+}
+
+.opcoes{
+
+    margin-left: auto;
+}
+
+.opcoes ul{
+
+    list-style: none;
+}
+
+.opcoes ul li{
+
+    display: inline;
+    font-size: 1.3em;
+    padding: 20px;
+}
+
+.opcoes ul li a{
+
+    text-decoration: none; 
+    color: black;
+}
